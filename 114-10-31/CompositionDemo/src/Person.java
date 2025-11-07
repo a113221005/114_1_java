@@ -19,4 +19,5 @@ public class Person {
     public String toString() {
         return String.format("姓名: %s, 身份證字號: %s", name, id);
     }
+
 }
